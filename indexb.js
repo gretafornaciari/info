@@ -10,7 +10,7 @@ fetch("http://192.168.1.231:8080/accreditamento/",
 {
     method: "POST",
     headers:{'Content-Type': 'application/json'},
-    body: JSON.stringify({"nome":"Lorenzo Biagi"})
+    body: JSON.stringify({"nome":"greta Fornaciari"})
 })
 
 fetch("http://192.168.1.231:8080/esercizi/1",
