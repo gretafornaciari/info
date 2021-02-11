@@ -1,0 +1,16 @@
+cd desktop
+mkdir cartella
+cd cartella
+npm init -y
+npm install express
+npm install body-parser
+npm install node-fetch
+ls
+touch index.js
+ls
+
+visual studio code
+
+node index.js
+
+su google: 192.168.1.231:8080
